@@ -1,1 +1,1 @@
-# Computer-Netwoek-Using-Cisco-Packet-Tracer
+# Computer-Network-Using-Cisco-Packet-Tracer
